@@ -14,4 +14,5 @@ changelog
 
 needs
   - Self-training (possible with Scikit Learn libraries, needs some human supervision)
+  - Slack log dump
   - Hosted
